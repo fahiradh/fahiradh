@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%3333333.svg?style=flat&logo=scikit-learn&logoColor=white)
 - 🛢 &nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-  ![DjangoREST](https://img.shields.io/badge/Django-REST-333?style=flat&logo=django)
   <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB) -->
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
