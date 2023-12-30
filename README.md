@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3> 💻 &nbsp;About Me </h3>
 
 * 🎓 &nbsp; Studying Information Systems at Universitas Indonesia
-* 🌱 &nbsp; Enthusiast in data analytics, project management, and business analytics
+* 🌱 &nbsp; Enthusiast in data analytics, product management, and system development
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
